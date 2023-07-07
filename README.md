@@ -1,17 +1,9 @@
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>
-
 ### <div align="center">Hello 👋👋 everyone. My name is Nikita. 👦</div>
 
 👨‍💻A little bit about yourself:👩‍💻
 
 I am a novice web developer,😊😊 graduated from BNTU University as a software engineer.📜📜 Now I am actively looking for a job to consolidate my knowledge and advance my skill to a new level.🔎🔎
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 👾👾Social web-site where you can find me👾👾
 
