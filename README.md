@@ -1,4 +1,3 @@
-<img src="https://thumbs.gfycat.com/BelatedDistantGuernseycow-size_restricted.gif" alt="The Unlimited" width="180"/>
 
 <div align="center">
 <img src="" align="center" style="width: 100%" />
@@ -9,6 +8,10 @@
 👨‍💻A little bit about yourself:👩‍💻
 
 I am a novice web developer,😊😊 graduated from BNTU University as a software engineer.📜📜 Now I am actively looking for a job to consolidate my knowledge and advance my skill to a new level.🔎🔎
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 👾👾Social web-site where you can find me👾👾
 
@@ -84,30 +87,3 @@ Telegram: https://t.me/nick_rin👩‍💻
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nik-smlkv&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 <br/>
-
-## Recent Blog Posts
-
-<br/>
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
-
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>
-
-<br/>
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
----
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
